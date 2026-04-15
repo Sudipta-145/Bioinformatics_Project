@@ -1,2 +1,2 @@
 # Bioinformatics_Project
-I applied my skills on R and Python to biological datasets.
+I applied my skills on Python and R to biological datasets.
